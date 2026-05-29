@@ -35,7 +35,7 @@ git add README.md
 git status
 git commit -m "Inicial: Agregando README.md"
 
-# 4. Vinculación y subida al repositorio remoto
+# 4. Vinculación y subida al repositorio remoto (Aqui tambien se hizo un rebranch para pasar de master a main)
 git remote add origin [https://github.com/benjabolomo/mi-taller-informatica-2026-]
 git remote -v
 git push -u origin main
